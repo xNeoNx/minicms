@@ -20,7 +20,7 @@ if (file_exists("classes/".$class.".php"))
     }
     else
     {
-    exit("<p>Не правильные данные для входа</p>");    
+    exit("<p>Не правильные данные для входа blia</p>");    
     }
 }
 else
